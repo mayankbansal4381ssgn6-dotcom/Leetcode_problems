@@ -13,11 +13,13 @@ Solving Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
+| [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
