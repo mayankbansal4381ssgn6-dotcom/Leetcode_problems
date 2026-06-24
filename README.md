@@ -8,6 +8,7 @@ Solving Leetcode problems
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -36,4 +37,12 @@ Solving Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
