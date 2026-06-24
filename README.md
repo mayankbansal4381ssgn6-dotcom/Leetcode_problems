@@ -6,6 +6,7 @@ Solving Leetcode problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
