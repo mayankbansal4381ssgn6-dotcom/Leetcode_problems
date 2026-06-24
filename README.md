@@ -10,6 +10,7 @@ Solving Leetcode problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
@@ -19,6 +20,7 @@ Solving Leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
