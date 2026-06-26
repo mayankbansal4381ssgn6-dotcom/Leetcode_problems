@@ -20,6 +20,7 @@ Solving Leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Solving Leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
