@@ -26,6 +26,7 @@ Solving Leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
@@ -52,4 +53,8 @@ Solving Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
