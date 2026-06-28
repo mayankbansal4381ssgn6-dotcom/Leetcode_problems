@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int start = 0;
+        int start = 1;
         int end = 0;
         int ans;
         int mid;
