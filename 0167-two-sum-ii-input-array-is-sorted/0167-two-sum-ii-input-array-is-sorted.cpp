@@ -2,14 +2,15 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         // using two pointers
-        vector<int>ans;
+        //vector<int>ans;
         int start=0;
         int end=numbers.size()-1;
         while(start<end){
             if(numbers[start]+numbers[end]==target){
-                ans.push_back(start+1);
-                ans.push_back(end+1);
-                break;
+                //ans.push_back(start+1);
+                //ans.push_back(end+1);
+                //break;
+                return{start+1,end+1};
 
             }
             else if(numbers[start]+numbers[end]<target){
@@ -19,7 +20,7 @@ public:
             else
             end--;
         }
-        return ans;
+        return {};
         
     }
 };
