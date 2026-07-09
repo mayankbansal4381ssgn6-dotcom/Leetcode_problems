@@ -19,10 +19,10 @@ public:
                 return 1;
             }
             else if(matrix[row_index][col_index]<target){
-                start++;
+                start=mid+1;
             }
             else
-            end--;
+            end=mid-1;
             
         }
         return 0;
