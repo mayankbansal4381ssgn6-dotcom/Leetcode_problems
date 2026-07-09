@@ -18,6 +18,7 @@ Solving Leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
@@ -35,6 +36,7 @@ Solving Leetcode problems
 | [0042-trapping-rain-water](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
@@ -86,4 +88,5 @@ Solving Leetcode problems
 | ------- |
 | [0048-rotate-image](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
