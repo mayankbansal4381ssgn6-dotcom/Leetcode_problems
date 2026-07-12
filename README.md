@@ -39,6 +39,7 @@ Solving Leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -66,6 +67,7 @@ Solving Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,16 @@ Solving Leetcode problems
 | [0048-rotate-image](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
