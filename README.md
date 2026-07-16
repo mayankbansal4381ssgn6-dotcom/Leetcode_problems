@@ -101,6 +101,7 @@ Solving Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0169-majority-element) |
+| [1859-sorting-the-sentence](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Solving Leetcode problems
 | [0409-longest-palindrome](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
