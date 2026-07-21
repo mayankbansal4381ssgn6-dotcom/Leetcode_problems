@@ -12,6 +12,7 @@ Solving Leetcode problems
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0258-add-digits/) | Easy |
+| [0367-valid-perfect-square](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Solving Leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0367-valid-perfect-square](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
