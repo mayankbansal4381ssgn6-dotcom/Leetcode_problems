@@ -62,6 +62,7 @@ Solving Leetcode problems
 | ------- |
 | [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0476-number-complement](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0476-number-complement/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
