@@ -7,6 +7,7 @@ Solving Leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/mayankbansal4381ssgn6-dotcom/Leetcode_problems/tree/main/0231-power-of-two/) | Easy |
